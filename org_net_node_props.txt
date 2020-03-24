@@ -1,0 +1,32 @@
+# The assignment, year of joining the company and title of the employees in "org_net.txt"
+# name join_year assignment title
+Tom 2001 Director Director
+Paul 2002 Project Team_leader
+Gabriel 2006 Project
+Todd 2006 Project
+John 2004 Project
+Dave 2007 Project
+Gordon 2012 Project
+Gaby 2006 Project
+Pete 2010 Project
+Peter2 2012 Project
+Steve 2007 Project
+Leslie 2013 Project
+Faith 2008 Project
+Jeremy 2006 Project
+Jason 2003 Project
+Erwin 2001 Maintenance Team_leader
+Gabor 2007 Maintenance
+Chris 2011 Maintenance
+George 2004 Maintenance
+Veronica 2007 Maintenance
+Patricia 2006 Maintenance
+Andy 2004 Maintenance
+Tim 2002 Maintenance
+Peter1 2008 Sales Team_leader
+Susy 2003 Sales
+Clark 2008 Sales
+Liz 2001 Sales
+Brown 2007 Sales
+Fred 2003 Sales
+Will 2010 Sales
